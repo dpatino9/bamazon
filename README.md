@@ -43,6 +43,6 @@ This action will allow a manager to add stock quantity to an existing item in th
 ### Add Product
 ![BamazonManager](/screenshots/bamazonmanager-addNewProduct.png)
 
-![BamazonManager](/screenshots/bamazonmanager-7-addNewProduct-results.png)
+![BamazonManager](/screenshots/bamazonmanager-addNewProduct-results.png)
 
 This action will allow the manager to add an entirely new product and its information to the inventory database. The second image shows the resulting inventory list update. 
