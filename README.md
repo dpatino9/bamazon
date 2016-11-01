@@ -14,8 +14,6 @@ Customers can purchase any item on the displayed inventory list, and be provided
 ### Insufficient Stock
 ![BamazonCustomer](/screenshots/bamazon-insufficient.png)
 
-![BamazonCustomer](/screenshots/bamazon-inventory.png)
-
 If a customer attempts to purchase more units of an item than are available in the inventory, they will recieve an alert saying there is insufficient stock to fulfill their order and the order will not be completed. 
 
 
@@ -37,7 +35,7 @@ This action will display all inventory where the stock quantity is less than 5.
 ### Add to Inventory
 ![BamazonManager](/screenshots/bamazonmanager-addInventory.png)
 
-![BamazonManager](/screenshots/bamazonmanager-addinventory-results.png)
+![BamazonManager](/screenshots/bamazonmanager-addInventory-results.png)
 
 
 This action will allow a manager to add stock quantity to an existing item in the inventory. The second image shows the resulting inventory list update.
